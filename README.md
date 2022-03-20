@@ -103,6 +103,8 @@ https://www.npmjs.com/package/dotenv
 
 https://www.npmjs.com/package/particles-bg
 
+https://coolors.co/palettes/trending
+
 Majority of code information was pulled from Module work offered by University of Utah for the React and webpack portions
 
 ## Testing:
