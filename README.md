@@ -1,5 +1,4 @@
 # Portfolio-2 
-https://avlamakis-portfolio-2.herokuapp.com/
 
 ## Licensing
 None (AS IS)
@@ -87,10 +86,10 @@ npx create-react-app photo-port
 npm install --save particles-bg
 
 ## Usage:
-
+https://avlamakis-portfolio-2.herokuapp.com/
 
 ## Screenshot
-![image](https://user-images.githubusercontent.com/91172337/158000647-87471e3d-3fdd-4e88-b74f-9b3a89aa3a6a.png)
+![image](https://user-images.githubusercontent.com/91172337/159151448-6edc35b3-5fa2-4bb8-bef1-00649523f36c.png)
 
 ## License:
 None
