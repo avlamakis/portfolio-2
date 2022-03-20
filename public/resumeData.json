@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name":"Alexandros Vlamakis",
+    "description":"Junior Developer/ Relationship Banker",
+    "image":"Teamworks Photo[216].jpg",
+    "bio":"HI! My name is Alexandros Vlamakis. I currently am a Relationship Banker with Wells Fargo Bank where I have been for 5 years now. I hold the following licenses: Series 7, Series 66, SIE, and Life Insurance. I currently attend the University of Utah's Coding Boot-camp. I am wanting to switch career paths into the Technology world as everything is becoming more advanced. I see great opportunity for growth within this field; primarily as either a front end or back end developer. I believe that as Technology advances being within these roles will allow me to help a wider group of individuals or companies with more complex issues that they may or may not understand.",
+    "contactmessage":"Feel free to contact me via email, this form, or LinkedIn",
+    "email": "alexvlamakis@gmail.com",
+    "phone": "801-888-6423",
+    "github":"https://github.com/avlamakis",
+    "project":"https://www.linkedin.com/in/alexandros-vlamakis-413266221/",
+    "address":{
+      "street":"1167 W 4300 S",
+      "city":"Taylorsville",
+      "state":"UT",
+      "zip": "84123"
+    },
+    "website": "https://github.com/avlamakis",
+    "resumedownload":"https://docs.google.com/document/d/1Uay_Sm_T98j2scnB0jDB7KA0YQXtvIHPC736M2Tcz38/edit?usp=sharing",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/avlamakis",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/alexandros-vlamakis-413266221/",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"* Each skill level is weighted in correlation to the remaining skills",
+    "education":[
+      {
+        "school":"University of Utah",
+        "gpa": "A- Academic Average",
+        "degree":"Coding Bootcamp Certificate",
+        "graduated":"April 2022",
+        "description":"Coursework Included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Handlebars, React.js, Node.js, Database Theory, MongoDB, MySQL, Git"
+      }
+    ],
+    "work":[
+      {
+        "company":"Wells Fargo Bank",
+        "title":"Relationship Banker",
+        "years":"November 2016 - Present",
+        "description":"Partners with financial advisors to understand appropriate introductions to address the needs of customers with investment or retirement needs"
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML / CSS / Bootstrap",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"35%"
+      },
+      {
+        "name":"MongoDB / Mongoose",
+        "level":"45%"
+      },
+      {
+        "name":"Terminal / Git",
+        "level":"90%"
+      },
+      {
+        "name":"NodeJS / ExpressJS",
+        "level":"65%"
+      },
+      {
+        "name":"MySQL / Sequelize",
+        "level":"55%"
+      },
+      {
+        "name":"JavaScript / jQuery",
+        "level":"75%"
+      },
+      {
+        "name":"REST APIs",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Ring Creator",
+        "shorttitle": "Ring Builder",
+        "category":"Group Project",
+        "image":"Ring Creator Screenshot 2022-02-17 101009.png",
+        "info":"Ring Creator Project done with Berk Forbes, Lisseth Diaz, Scott Nichols, and myself.",
+        "url":"https://ring-builder-app.herokuapp.com/",
+        "repo":"https://github.com/tutchings/disneyPlatformer"
+      },
+      {
+        "title":"Stay-At-Home-Mom Calendar",
+        "shorttitle": "SAHM Calendar",
+        "category":"Group Project",
+        "image":"SAHM Calendar Screenshot 2022-02-17 101446.png",
+        "info":"First Project completed with Scott Nichols, Berk Forbes, and myself. Project is a stay at home mom calendar.",
+        "url":"https://sessions21.github.io/Project1-SAHM-Calendar/",
+        "repo":"https://github.com/Sessions21/Project1-SAHM-Calendar.git"
+      },
+      {
+        "title":"Weather Dashboard",
+        "shorttitle": "Weather Dashboard",
+        "category":"Academic Project",
+        "image":"Weather Dashboard-Screenshot.png",
+        "info":"This was my first project utilizing API's to fetch new data.",
+        "url":"https://avlamakis.github.io/Weather-Dashboard/",
+        "repo":"https://github.com/avlamakis/Weather-Dashboard"
+      },
+      {
+        "title":"Password-Random-Generator",
+        "shorttitle": "Budget Tracker",
+        "category":"Academic Project",
+        "image":"Password Generator Screenshot.png",
+        "info":"Random password generator using HTML, CSS, and Javascript.",
+        "url":"https://avlamakis.github.io/Password-Random-Generator/",
+        "repo":"https://github.com/avlamakis/Password-Random-Generator"
+      }
+    ]
+  }
+}
