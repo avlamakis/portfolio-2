@@ -89,7 +89,10 @@ npm install --save particles-bg
 https://avlamakis-portfolio-2.herokuapp.com/
 
 ## Screenshot
-![image](https://user-images.githubusercontent.com/91172337/159151448-6edc35b3-5fa2-4bb8-bef1-00649523f36c.png)
+![image](https://user-images.githubusercontent.com/91172337/159151817-8cc639ba-772e-4a87-9873-98d2c2dfc3cc.png)
+
+![image](https://user-images.githubusercontent.com/91172337/159151831-bc7e8e0c-dbc3-4d6a-ad94-5cd20a2c7020.png)
+
 
 ## License:
 None
