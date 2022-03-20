@@ -8,6 +8,7 @@
     "email": "alexvlamakis@gmail.com",
     "phone": "801-888-6423",
     "github":"https://github.com/avlamakis",
+    "instagram": "https://www.instagram.com/gengar_rs/",
     "project":"https://www.linkedin.com/in/alexandros-vlamakis-413266221/",
     "address":{
       "street":"1167 W 4300 S",
@@ -27,6 +28,11 @@
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/alexandros-vlamakis-413266221/",
         "className":"fa fa-linkedin"
+      },
+      {
+        "name":"Instagram",
+        "url":"https://www.instagram.com/gengar_rs/",
+        "className":"fa fa-instagram"
       }
     ]
   },

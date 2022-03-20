@@ -6,6 +6,7 @@ class Header extends Component {
 
     if(this.props.data){
        var project = this.props.data.project;
+       var instagram = this.props.data.instagram;
        var github = this.props.data.github;
       var name = this.props.data.name;
       var description= this.props.data.description;
@@ -40,6 +41,7 @@ class Header extends Component {
             <ul className="social">
                <a href={project} target="_blank" className="button btn github-btn"><i className="fa fa-linkedin"></i>LinkedIn</a>
                <a href={github} target="_blank" className="button btn github-btn"><i className="fa fa-github"></i>Github</a>
+               <a href={instagram} target="_blank" className="button btn github-btn"><i className="fa fa-instagram"></i>Instagram</a>
             </ul>
          </div>
       </div>
