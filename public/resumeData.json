@@ -8,7 +8,6 @@
     "email": "alexvlamakis@gmail.com",
     "phone": "801-888-6423",
     "github":"https://github.com/avlamakis",
-    "instagram": "https://www.instagram.com/gengar_rs/",
     "project":"https://www.linkedin.com/in/alexandros-vlamakis-413266221/",
     "address":{
       "street":"1167 W 4300 S",
@@ -28,11 +27,6 @@
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/alexandros-vlamakis-413266221/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"Instagram",
-        "url":"https://www.instagram.com/gengar_rs/",
-        "className":"fa fa-instagram"
       }
     ]
   },
@@ -93,6 +87,15 @@
   "portfolio":{
     "projects": [
       {
+        "title":"T-Shirt Paradise",
+        "shorttitle": "Fan page",
+        "category":"Group Project",
+        "image":"T-shirt paradise screenshot.png",
+        "info":"T-Shirt Creator Project done with Berk Forbes, Taylor Cannon, Scott Nichols, and myself.",
+        "url":"https://t-shirt-paradise.herokuapp.com/",
+        "repo":"https://github.com/Sessions21/t-shirt-paradise"
+      },
+      {
         "title":"Ring Creator",
         "shorttitle": "Ring Builder",
         "category":"Group Project",
@@ -111,6 +114,15 @@
         "repo":"https://github.com/Sessions21/Project1-SAHM-Calendar.git"
       },
       {
+        "title":"Budget Tracker",
+        "shorttitle": "Budget Tracker",
+        "category":"Academic Project",
+        "image":"budget tracker screenshot.png",
+        "info":"PWA application to track your budget.",
+        "url":"https://avlamakis-budget-tracker.herokuapp.com/",
+        "repo":"https://github.com/avlamakis/Budget-Tracker"
+      },
+      {
         "title":"Weather Dashboard",
         "shorttitle": "Weather Dashboard",
         "category":"Academic Project",
@@ -121,12 +133,30 @@
       },
       {
         "title":"Password-Random-Generator",
-        "shorttitle": "Budget Tracker",
+        "shorttitle": "PW GEN",
         "category":"Academic Project",
         "image":"Password Generator Screenshot.png",
         "info":"Random password generator using HTML, CSS, and Javascript.",
         "url":"https://avlamakis.github.io/Password-Random-Generator/",
         "repo":"https://github.com/avlamakis/Password-Random-Generator"
+      },
+      {
+        "title":"Social Network API",
+        "shorttitle": "Soc net API",
+        "category":"Academic Project",
+        "image":"soc network api screenshot.png",
+        "info":"Social Network API with NoSQL",
+        "url":"https://github.com/avlamakis/Social-Network-API",
+        "repo":"https://github.com/avlamakis/Social-Network-API"
+      },
+      {
+        "title":"E-commerce Back-end ",
+        "shorttitle": "ORM Express.js",
+        "category":"Academic Project",
+        "image":"e commerce screenshot.png",
+        "info":"ORM application with express.js",
+        "url":"https://github.com/avlamakis/E-Commerce-Back-End",
+        "repo":"https://github.com/avlamakis/E-Commerce-Back-End"
       }
     ]
   }
